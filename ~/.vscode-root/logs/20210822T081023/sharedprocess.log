@@ -18,3 +18,4 @@
 [2021-08-22 08:11:11.807] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
 [2021-08-22 08:11:20.182] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
 [2021-08-22 10:41:40.024] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-22 11:52:04.057] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
