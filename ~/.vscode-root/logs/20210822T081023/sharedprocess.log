@@ -1,0 +1,20 @@
+[2021-08-22 08:10:42.916] [sharedprocess] [info] Deleted from disk vscodevim.vim /root/.vscode/extensions/vscodevim.vim-1.21.3
+[2021-08-22 08:10:43.309] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /root/.vscode/extensions/ms-azuretools.vscode-docker-1.13.0
+[2021-08-22 08:10:43.497] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-containers /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.177.2
+[2021-08-22 08:10:48.463] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-08-22 08:10:48.539] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-08-22 08:10:50.171] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-22 08:10:57.988] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /root/Documents/My Projects/Hotel_Website/~/.vscode-root/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.191.1
+[2021-08-22 08:10:58.852] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.2d3ee0fd-a10e-4e6c-ade8-f31622e13fd1: ms-vscode-remote.remote-containers
+[2021-08-22 08:11:00.236] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.1
+[2021-08-22 08:11:00.237] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2021-08-22 08:11:01.148] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2021-08-22 08:11:07.758] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /root/Documents/My Projects/Hotel_Website/~/.vscode-root/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.16.0
+[2021-08-22 08:11:07.974] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.2ef8abf8-78fd-4baa-b49c-c0bfe34ab1cf: ms-azuretools.vscode-docker
+[2021-08-22 08:11:08.033] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-azuretools.vscode-docker-1.16.0
+[2021-08-22 08:11:08.037] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-08-22 08:11:08.124] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-08-22 08:11:11.632] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-22 08:11:11.807] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-22 08:11:20.182] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-22 10:41:40.024] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
